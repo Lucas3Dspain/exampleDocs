@@ -1,0 +1,7 @@
+# robots.txt for GitHub Pages
+User-agent: *
+Allow: /
+
+# Sitemap (update with your actual site URL)
+Sitemap: https://lucas3dspain.github.io/exampleDocs/sitemap.xml
+
