@@ -6,7 +6,7 @@ Welcome! This guide will help you get started with your MkDocs documentation sit
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/exampleDocs.git
+   git clone https://github.com/lucas3dspain/exampleDocs.git
    cd exampleDocs
    ```
 

@@ -2,7 +2,7 @@
 
 A minimal GitHub Pages documentation site built with MkDocs and Material theme.
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue)](https://yourusername.github.io/exampleDocs/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue)](https://lucas3dspain.github.io/exampleDocs/)
 [![MkDocs](https://img.shields.io/badge/MkDocs-Material-green)](https://squidfunk.github.io/mkdocs-material/)
 
 ## Setup

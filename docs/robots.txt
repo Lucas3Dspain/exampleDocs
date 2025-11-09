@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Sitemap (update with your actual site URL)
-Sitemap: https://yourusername.github.io/exampleDocs/sitemap.xml
+Sitemap: https://lucas3dspain.github.io/exampleDocs/sitemap.xml
 
