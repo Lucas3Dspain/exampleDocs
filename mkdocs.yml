@@ -63,10 +63,6 @@ theme:
   - toc.follow
   - toc.integrate
   palette:
-    scheme: slate
-    primary: black
-    accent: lime
-  palette:
     - media: "(prefers-color-scheme)"
       accent: lime
       primary: black
