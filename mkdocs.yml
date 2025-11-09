@@ -4,6 +4,9 @@ repo_url: https://github.com/Lucas3Dspain/exampleDocs/
 site_description: Documentation site built with MkDocs
 nav:
   - Home: index.md
+  - Getting Started: getting-started.md
+  - Examples: examples.md
+  - Changelog: changelog.md
 
 
 validation:
@@ -44,7 +47,7 @@ markdown_extensions:
 theme:
   name: material
   # logo: your-logo-dark.svg
-  favicon: favicon.svg
+  favicon: docs/assets/favicon.svg
   features:
   - announce.dismiss
   - content.action.edit
@@ -87,5 +90,3 @@ theme:
 
 plugins:
 - search
-
-# - markdown-exec

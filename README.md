@@ -1,6 +1,9 @@
 # exampleDocs
 
-A minimal GitHub Pages documentation site built with MkDocs.
+A minimal GitHub Pages documentation site built with MkDocs and Material theme.
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue)](https://yourusername.github.io/exampleDocs/)
+[![MkDocs](https://img.shields.io/badge/MkDocs-Material-green)](https://squidfunk.github.io/mkdocs-material/)
 
 ## Setup
 
@@ -31,14 +34,20 @@ The documentation is automatically deployed to GitHub Pages when you push to the
 
 ```
 .
-├── docs/              # Markdown documentation files
-│   └── index.md      # Home page
+├── docs/                      # Markdown documentation files
+│   ├── index.md              # Home page
+│   ├── getting-started.md    # Getting started guide
+│   ├── examples.md           # Markdown examples
+│   └── assets/               # Images, favicons, etc.
+│       └── favicon.svg       # Site favicon
 ├── .github/
 │   └── workflows/
-│       └── ci.yml    # GitHub Actions workflow
-├── mkdocs.yml        # MkDocs configuration
-├── requirements.txt  # Python dependencies
-└── README.md         # This file
+│       └── ci.yml           # GitHub Actions workflow
+├── mkdocs.yml                # MkDocs configuration
+├── requirements.txt          # Python dependencies
+├── LICENSE                   # MIT License
+├── CONTRIBUTING.md          # Contribution guidelines
+└── README.md                # This file
 ```
 
 ## Adding Content
